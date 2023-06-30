@@ -26,4 +26,12 @@ for line in marks_lines:
 
 print(subject_marks)
 
+#make function to get top student from each subject
+def getTopStudent(subject : str, dataSet:dict):
+    maxMarks = 0
+    for name, mark in dataSet:
+        if mark > maxMarks:
+            maxMarks = mark
+    print(maxMarks)
+
 
