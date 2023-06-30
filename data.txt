@@ -1,0 +1,7 @@
+Name, Subject, Marks
+Praneeth, Science, 75
+Dinuka, Maths, 90
+Kamala, Sinhala, 20
+Nimal, Science, 45
+Sujani, Maths, 33
+Ajith, Sinhala, 29
